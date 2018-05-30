@@ -1,0 +1,36 @@
+.wrap {
+	width: 80%;
+	margin: auto;
+	background: blue;
+	overflow: hidden;
+
+}
+.content {
+	background: red;
+	float: left;
+	width: 80%;
+}
+.content, aside{
+	height: 600px;
+}
+/*p.clear{
+	clear: both;
+}
+*/
+aside{
+	background: brown;
+	width:20%;
+	float: left;
+	
+}
+aside ul{
+	padding-left: 0;
+	list-style: none;
+}
+body{
+
+	/*background: green;*/
+}
+h1{
+	/*background:pink;*/
+}
